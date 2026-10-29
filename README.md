@@ -22,7 +22,7 @@
 
 The screenshot below was captured from the locally served live page:
 
-![Nexus Attend live landing page](static/img/nexus-attend-live.png)
+<img src="static/img/nexus-attend-hero.png" alt="Nexus Attend hero section" width="100%">
 
 ## What is Nexus Attend?
 
